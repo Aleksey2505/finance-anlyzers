@@ -1,7 +1,7 @@
 # 5 полноценных бизнес-приложений, каждое из которых решает реальную боль и может использоваться в продакшене уже завтра
 
 ## 1. CRM Dashboard — Обогащение баз контактов и контроль качества лидов
-![CRM Dashboard](crm_dashboard.py1.png)
+![CRM Dashboard](crm_dashboard.png)
 
 **CRM Dashboard для автоматизации поиска и обогащения клиентских контактов**  
 **Streamlit + Google Sheets + gspread | Python**
@@ -27,7 +27,7 @@
 ---
 
 ## 2. Финансовый Трекер — Личный и корпоративный учёт финансов
-![Finance Tracker](finance_tracker.py1.png)
+![Finance Tracker](finance_tracker.png)
 
 **Финансовый Трекер — дашборд с автоматической аналитикой и бюджетным планированием**  
 **Streamlit + Google Sheets + Plotly | Python**
@@ -52,7 +52,7 @@
 ---
 
 ## 3. HR Dashboard — Корпоративная аналитика персонала
-![HR Dashboard](hr_dashboard.py1.png)
+![HR Dashboard](hr_dashboard.png)
 
 **HR Dashboard — управление персоналом и расчёт ФОТ в реальном времени**  
 **Streamlit + Google Sheets + Plotly | Python**
@@ -109,7 +109,7 @@
 ---
 
 ## 5. Воронка продаж — Лёгкая CRM с пайплайном и лидербордом
-![Sales Pipeline](sales_pipeline.py1.png)
+![Sales Pipeline](sales_pipeline.png)
 
 **Воронка продаж — управление сделками и прогноз выручки**  
 **Streamlit + Google Sheets + Plotly | Python**
